@@ -1,0 +1,73 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\bin\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.PublicChat.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\bin\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\bin\Debug\Client.exe.config
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.exe.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Usuario cliente.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Client\obj\Debug\Usuario cliente.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\bin\Debug\Usuario cliente.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.LoginForm.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.PrivateChatForm.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.PublicChatForm.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Usuario cliente.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Client\obj\Debug\Usuario cliente.pdb

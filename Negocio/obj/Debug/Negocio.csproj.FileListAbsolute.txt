@@ -1,0 +1,20 @@
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\obj\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Negocio\bin\Debug\Datos.pdb

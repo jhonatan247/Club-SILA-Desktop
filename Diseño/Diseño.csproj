@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{476D78E5-D014-4D01-BEC0-B0F5D707FE10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Diseño</RootNamespace>
+    <AssemblyName>Club Sila</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Diseño.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logot.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CustomControls">
+      <HintPath>..\CustomControls\obj\Debug\CustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\DTS_PROGRAMADOR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_PROGRAMADOR.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\DTS_RPT_OBJETO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_RPT_OBJETO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\AccionReciclaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\AccionReciclaje.Designer.cs">
+      <DependentUpon>AccionReciclaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\Pruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\Pruebas.Designer.cs">
+      <DependentUpon>Pruebas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\EnviarCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\EnviarCodigo.Designer.cs">
+      <DependentUpon>EnviarCodigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\Reloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\Reloj.Designer.cs">
+      <DependentUpon>Reloj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\ReporteCompleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\ReporteCompleto.Designer.cs">
+      <DependentUpon>ReporteCompleto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\GestionarEntidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\GestionarEntidades.Designer.cs">
+      <DependentUpon>GestionarEntidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\EntidadCompleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\EntidadCompleta.Designer.cs">
+      <DependentUpon>EntidadCompleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\ConfirmarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\ConfirmarContraseña.Designer.cs">
+      <DependentUpon>ConfirmarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\Icono.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\Icono.Designer.cs">
+      <DependentUpon>Icono.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\Presentacion.Designer.cs">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\TablaCompletaSeleccionar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\TablaCompletaSeleccionar.Designer.cs">
+      <DependentUpon>TablaCompletaSeleccionar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\GraficaCompleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\GraficaCompleta.Designer.cs">
+      <DependentUpon>GraficaCompleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\VisorImagenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\VisorImagenes.Designer.cs">
+      <DependentUpon>VisorImagenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones\PantallaCompleta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones\PantallaCompleta.Designer.cs">
+      <DependentUpon>PantallaCompleta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestión de datos\FRM_OBJETO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestión de datos\FRM_OBJETO.Designer.cs">
+      <DependentUpon>FRM_OBJETO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Aprendizaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Aprendizaje.designer.cs">
+      <DependentUpon>Aprendizaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\CoreanoAPR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\CoreanoAPR.designer.cs">
+      <DependentUpon>CoreanoAPR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio2.Designer.cs">
+      <DependentUpon>Inicio2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Licencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Licencia.Designer.cs">
+      <DependentUpon>Licencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio1.Designer.cs">
+      <DependentUpon>Inicio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio_Programador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicio_Programador.Designer.cs">
+      <DependentUpon>Inicio_Programador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Historia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Historia.designer.cs">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Ingreso.Designer.cs">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicioc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz de usuario\Inicioc.designer.cs">
+      <DependentUpon>Inicioc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Funciones\AccionReciclaje.resx">
+      <DependentUpon>AccionReciclaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\Pruebas.resx">
+      <DependentUpon>Pruebas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\EnviarCodigo.resx">
+      <DependentUpon>EnviarCodigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\Reloj.resx">
+      <DependentUpon>Reloj.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\ReporteCompleto.resx">
+      <DependentUpon>ReporteCompleto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\GestionarEntidades.resx">
+      <DependentUpon>GestionarEntidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\EntidadCompleta.resx">
+      <DependentUpon>EntidadCompleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\ConfirmarContraseña.resx">
+      <DependentUpon>ConfirmarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\Icono.resx">
+      <DependentUpon>Icono.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\Presentacion.resx">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\TablaCompletaSeleccionar.resx">
+      <DependentUpon>TablaCompletaSeleccionar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\GraficaCompleta.resx">
+      <DependentUpon>GraficaCompleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\VisorImagenes.resx">
+      <DependentUpon>VisorImagenes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones\PantallaCompleta.resx">
+      <DependentUpon>PantallaCompleta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestión de datos\FRM_OBJETO.resx">
+      <DependentUpon>FRM_OBJETO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\AcercaDe.resx">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Aprendizaje.resx">
+      <DependentUpon>Aprendizaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\CoreanoAPR.resx">
+      <DependentUpon>CoreanoAPR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Inicio2.es-CO.resx">
+      <DependentUpon>Inicio2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Inicio2.resx">
+      <DependentUpon>Inicio2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Licencia.resx">
+      <DependentUpon>Licencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Inicio1.resx">
+      <DependentUpon>Inicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Inicio_Programador.resx">
+      <DependentUpon>Inicio_Programador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Historia.resx">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Ingreso.resx">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz de usuario\Inicioc.resx">
+      <DependentUpon>Inicioc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reportes\ING_PROGRAMADOR.rdlc" />
+    <EmbeddedResource Include="Reportes\RPT_OBJETO.rdlc" />
+    <None Include="Datos\DTS_PROGRAMADOR.xsc">
+      <DependentUpon>DTS_PROGRAMADOR.xsd</DependentUpon>
+    </None>
+    <None Include="Datos\DTS_PROGRAMADOR.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_PROGRAMADOR.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datos\DTS_PROGRAMADOR.xss">
+      <DependentUpon>DTS_PROGRAMADOR.xsd</DependentUpon>
+    </None>
+    <None Include="Datos\DTS_RPT_OBJETO.xsc">
+      <DependentUpon>DTS_RPT_OBJETO.xsd</DependentUpon>
+    </None>
+    <None Include="Datos\DTS_RPT_OBJETO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_RPT_OBJETO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Datos\DTS_RPT_OBJETO.xss">
+      <DependentUpon>DTS_RPT_OBJETO.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{9605361a-caf8-41c8-98e8-1c1a0b001d8b}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logot.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

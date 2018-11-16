@@ -1,0 +1,45 @@
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Login.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Main.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.To.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Debug\Mail.exe.config
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Debug\Mail.exe
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Debug\Mail.pdb
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.exe
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.pdb
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Debug\GvS.Controls.HtmlTextbox.pdb
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Login2.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Main2.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Debug\Mail.Selccionar.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.exe.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\bin\Debug\GvS.Controls.HtmlTextbox.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Login.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Login2.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Main.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Main2.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Selccionar.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.To.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\bin\Debug\Mail.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\bin\Debug\GvS.Controls.HtmlTextbox.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Login.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Login2.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Main.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Main2.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.Selccionar.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.To.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Mail\obj\Debug\Mail.pdb

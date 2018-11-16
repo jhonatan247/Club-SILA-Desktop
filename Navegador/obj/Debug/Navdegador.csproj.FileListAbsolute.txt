@@ -1,0 +1,18 @@
+C:\Navdegador\Navdegador\bin\Debug\Navdegador.exe.config
+C:\Navdegador\Navdegador\bin\Debug\Navdegador.exe
+C:\Navdegador\Navdegador\bin\Debug\Navdegador.pdb
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.csprojResolveAssemblyReference.cache
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.Form1.resources
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.Properties.Resources.resources
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.csproj.GenerateResource.Cache
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.exe
+C:\Navdegador\Navdegador\obj\Debug\Navdegador.pdb
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navdegador.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navdegador.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navegador.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\bin\Debug\Navegador.exe.config
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\bin\Debug\Navegador.exe
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\bin\Debug\Navegador.pdb
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navegador.Form1.resources
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navegador.exe
+C:\Users\Familia Torres\Desktop\SILA\Navdegador\Navdegador\obj\Debug\Navegador.pdb

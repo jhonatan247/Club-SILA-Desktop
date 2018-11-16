@@ -1,0 +1,13 @@
+bin\Debug\All Dialogs by Yashar.exe.manifest
+bin\Debug\All Dialogs by Yashar.application
+bin\Debug\All Dialogs by Yashar.exe
+bin\Debug\All Dialogs by Yashar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\All_Dialogs_by_Yashar.Form1.resources
+obj\Debug\All_Dialogs_by_Yashar.Form2.resources
+obj\Debug\All_Dialogs_by_Yashar.Properties.Resources.resources
+obj\Debug\All Dialogs Coded by Yashar.csproj.GenerateResource.Cache
+obj\Debug\All Dialogs by Yashar.exe.manifest
+obj\Debug\All Dialogs by Yashar.application
+obj\Debug\All Dialogs by Yashar.exe
+obj\Debug\All Dialogs by Yashar.pdb

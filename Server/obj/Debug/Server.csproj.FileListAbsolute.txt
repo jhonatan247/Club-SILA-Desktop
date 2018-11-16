@@ -1,0 +1,57 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Client.PrivateChat.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\bin\Debug\Server.exe.config
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Familia Torres\Desktop\SILA\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Server.Main.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.exe.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Servidor.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Server\obj\Debug\Servidor.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\bin\Debug\Servidor.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Server.Main.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Server.PrivateChat.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Server.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Servidor.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Server\obj\Debug\Servidor.pdb

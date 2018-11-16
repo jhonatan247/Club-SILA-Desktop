@@ -1,0 +1,9 @@
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\bin\Debug\Calculadora.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\bin\Debug\Calculadora.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\bin\Debug\Calculadora.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora Cientifica.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora.Main.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora Cientifica.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,132 @@
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.dll.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Antlr3.Runtime.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Newtonsoft.Json.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Owin.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Optimization.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Providers.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\WebGrease.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Optimization.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Newtonsoft.Json.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\EntityFramework.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\System.Web.Providers.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.dll.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Diseño WEB.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Antlr3.Runtime.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.SqlServer.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Newtonsoft.Json.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Owin.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Optimization.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Providers.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\WebGrease.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\System.Web.Optimization.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Antlr3.Runtime.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Newtonsoft.Json.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\EntityFramework.SqlServer.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\EntityFramework.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\EntityFramework.SqlServer.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\System.Web.Providers.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño WEB\obj\Debug\Diseño WEB.pdb

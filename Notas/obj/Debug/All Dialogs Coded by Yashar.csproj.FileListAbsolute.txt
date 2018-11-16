@@ -1,0 +1,39 @@
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\ResolveAssemblyReference.cache
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form1.resources
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form2.resources
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs Coded by Yashar.csproj.GenerateResource.Cache
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe.manifest
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.application
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.pdb
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs.Properties.Resources.resources
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe.manifest
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.application
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe
+D:\My Source in Csharp\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe.manifest
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.application
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form1.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form2.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs Coded by Yashar.csproj.GenerateResource.Cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe.manifest
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.application
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.pdb
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe.manifest
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.application
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.exe
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\bin\Debug\All Dialogs.pdb
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form1.resources
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs_by_Yashar.Form2.resources
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All_Dialogs.Properties.Resources.resources
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs Coded by Yashar.csproj.GenerateResource.Cache
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.exe.manifest
+G:\C#\soruse\200 C# Project\All Dialogs\All Dialogs\All Dialogs by Yashar\obj\Debug\All Dialogs.application

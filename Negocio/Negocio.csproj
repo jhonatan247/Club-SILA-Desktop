@@ -1,0 +1,1612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9605361A-CAF8-41C8-98E8-1C1A0B001D8B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Negocio</RootNamespace>
+    <AssemblyName>Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidades\E_CategoriaCampeonato.cs" />
+    <Compile Include="Entidades\E_AsistenciaDeportista.cs" />
+    <Compile Include="Entidades\E_Programa.cs" />
+    <Compile Include="Entidades\E_RegistroMultas.cs" />
+    <Compile Include="Entidades\E_FacturaProducto.cs" />
+    <Compile Include="Entidades\E_HorarioAsistencia.cs" />
+    <Compile Include="Entidades\E_LogroDeportistaCampeonato.cs" />
+    <Compile Include="Entidades\E_LogroCombate.cs" />
+    <Compile Include="Entidades\E_LogroPoomsae.cs" />
+    <Compile Include="Entidades\E_LogroExhibicion.cs" />
+    <Compile Include="Entidades\E_CategoriaCinturon.cs" />
+    <Compile Include="Entidades\E_CategoriaPeso.cs" />
+    <Compile Include="Entidades\E_FacturaMensualidad.cs" />
+    <Compile Include="Entidades\E_DeudaMultas.cs" />
+    <Compile Include="Entidades\E_Multa.cs" />
+    <Compile Include="Entidades\E_Producto.cs" />
+    <Compile Include="Entidades\E_RegistroAhorro.cs" />
+    <Compile Include="Entidades\E_FacturaExamen.cs" />
+    <Compile Include="Entidades\E_FacturaCampeonato.cs" />
+    <Compile Include="Entidades\E_FacturaEvento.cs" />
+    <Compile Include="Entidades\E_ConfirmarAsistenciaEvento.cs" />
+    <Compile Include="Entidades\E_ConfirmarAsistenciaCampeonato.cs" />
+    <Compile Include="Entidades\E_DatosEvento.cs" />
+    <Compile Include="Entidades\E_Campeonato.cs" />
+    <Compile Include="Entidades\E_ConfirmarAsistenciaExamen.cs" />
+    <Compile Include="Entidades\E_NivelExamen.cs" />
+    <Compile Include="Entidades\E_Examen.cs" />
+    <Compile Include="Entidades\E_Evento.cs" />
+    <Compile Include="Entidades\E_HorarioEvento.cs" />
+    <Compile Include="Entidades\E_CreditosEntrenamientoRequeridos.cs" />
+    <Compile Include="Entidades\E_RequisitosEvento.cs" />
+    <Compile Include="Entidades\E_TipoExhibicion.cs" />
+    <Compile Include="Entidades\E_TipoPoomsae.cs" />
+    <Compile Include="Entidades\E_TipoCombate.cs" />
+    <Compile Include="Entidades\E_TipoEvento.cs" />
+    <Compile Include="Entidades\E_PlaneacionClases.cs" />
+    <Compile Include="Entidades\E_Cumpleaños.cs" />
+    <Compile Include="Entidades\E_DatosCuenta.cs" />
+    <Compile Include="Entidades\E_DatosAcudiente.cs" />
+    <Compile Include="Entidades\E_Cuenta.cs" />
+    <Compile Include="Entidades\E_DatosDeportista.cs" />
+    <Compile Include="Entidades\E_Entrenador.cs" />
+    <Compile Include="Entidades\E_Deportista.cs" />
+    <Compile Include="Entidades\E_RegistroUsuario.cs" />
+    <Compile Include="Entidades\E_RequisitosCumplidosDep.cs" />
+    <Compile Include="Entidades\E_CategoriaEdad.cs" />
+    <Compile Include="Entidades\E_Cinturon.cs" />
+    <Compile Include="Entidades\E_Horario.cs" />
+    <Compile Include="Entidades\E_ClasesHorario.cs" />
+    <Compile Include="Entidades\E_ClaseSabado.cs" />
+    <Compile Include="Entidades\E_ClaseDomingo.cs" />
+    <Compile Include="Entidades\E_DatosAdministrador.cs" />
+    <Compile Include="Entidades\E_DatosEntrenador.cs" />
+    <Compile Include="Entidades\E_ClaseEntreSemana.cs" />
+    <Compile Include="Entidades\E_IntencidadHoraria.cs" />
+    <Compile Include="Entidades\E_TipoMensualidad.cs" />
+    <Compile Include="Entidades\E_DatosPersonales.cs" />
+    <Compile Include="Entidades\E_DatosSeguridad.cs" />
+    <Compile Include="Entidades\E_DatosProgramador.cs" />
+    <Compile Include="Entidades\E_Inventario.cs" />
+    <Compile Include="Entidades\E_Cargo.cs" />
+    <Compile Include="Entidades\E_PreguntaSeguridad.cs" />
+    <Compile Include="Entidades\E_TemaPregunta.cs" />
+    <Compile Include="Entidades\E_Sede.cs" />
+    <Compile Include="Entidades\E_DatosContacto.cs" />
+    <Compile Include="Entidades\E_TipoCuenta.cs" />
+    <Compile Include="Entidades\E_Objeto.cs" />
+    <Compile Include="Lógica\AccionesSistema.cs" />
+    <Compile Include="Lógica\Captura.cs" />
+    <Compile Include="Lógica\MensajeBx.cs" />
+    <Compile Include="Lógica\TimmerAction.cs" />
+    <Compile Include="Lógica\MensajeTrayBar.cs" />
+    <Compile Include="Lógica\MensajeToolTip.cs" />
+    <Compile Include="Lógica\Validacion.cs" />
+    <Compile Include="Manejo de datos\Programa.cs" />
+    <Compile Include="Manejo de datos\CRUD_Objeto.cs" />
+    <Compile Include="Objetos\RelojAnalogo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{710dba43-8019-443a-9ed6-ccdac229195d}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\006.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\010.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\013.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\014.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\015.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\016.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\017.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\018.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\019.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\020.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\021.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\022.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\023.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\024.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\025.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\026.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\027.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\028.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\029.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\030.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\032.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\033.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\034.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\035.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\036.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\037.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\038.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\039.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\040.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\041.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\042.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\043.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\044.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\045.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\046.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\047.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\048.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\049.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\050.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\051.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\052.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\053.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\054.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\055.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\056.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\057.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\058.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\059.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\060.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\062.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\063.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\064.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\065.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\066.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\067.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\068.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\069.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\070.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\071.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aplauso.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boton.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camara.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Datos.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimizado.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Silencio.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\134.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\framework.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GAhorro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gasistencia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GDocumentos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GLecciones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GLogros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUsuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hombre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maleta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mujer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Share.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonidoA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SonidoD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sql.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro365.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro366.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro367.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro368.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro369.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro370.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro371.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro372.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro000.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro005.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro007.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro010.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro013.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro014.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro016.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro017.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro018.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro019.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro020.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro021.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro022.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro023.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro025.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro026.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro027.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro028.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro029.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro030.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro031.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro032.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro033.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro034.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro035.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro036.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro037.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro038.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro039.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro040.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro041.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro042.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro043.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro044.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro045.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro046.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro047.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro048.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro049.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro050.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro051.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro052.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro053.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro054.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro055.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro056.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro057.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro058.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro059.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro060.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro062.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro063.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro064.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro065.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro066.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro067.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro068.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro069.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro070.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro071.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro072.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro073.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro074.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro075.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro076.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro077.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro078.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro079.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro081.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro082.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro083.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro084.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro085.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro086.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro087.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro088.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro089.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro090.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro091.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro092.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro093.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro094.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro095.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro096.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro097.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro098.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro099.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro100.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro101.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro102.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro103.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro104.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro105.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro106.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro107.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro108.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro109.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro110.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro112.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro113.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro114.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro115.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro116.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro117.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro118.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro119.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro120.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro122.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro124.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro125.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro126.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro127.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro128.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro129.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro130.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro131.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro133.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro134.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro135.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro136.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro137.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro138.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro139.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro140.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro141.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro142.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro143.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro144.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro145.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro146.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro147.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro148.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro149.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro150.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro151.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro152.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro153.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro154.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro155.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro156.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro157.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro158.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro159.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro160.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro161.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro162.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro163.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro164.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro165.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro166.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro167.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro168.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro169.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro170.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro171.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro172.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro173.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro174.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro175.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro176.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro177.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro178.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro179.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro180.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro181.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro182.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro183.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro184.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro185.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro186.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro187.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro188.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro189.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro190.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro191.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro192.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro193.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro194.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro195.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro196.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro197.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro198.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro199.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro201.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro202.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro203.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro204.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro205.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro206.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro207.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro208.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro209.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro210.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro211.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro212.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro213.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro214.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro215.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro216.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro217.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro218.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro219.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro220.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro221.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro223.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro224.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro225.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro226.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro227.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro228.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro229.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro230.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro231.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro232.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro233.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro234.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro235.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro236.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro237.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro238.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro239.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro240.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro241.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro242.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro243.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro244.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro245.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro246.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro247.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro248.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro249.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro250.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro251.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro252.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro253.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro254.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro255.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro256.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro257.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro258.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro259.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro260.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro261.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro262.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro263.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro264.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro265.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro266.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro267.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro268.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro269.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro270.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro271.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro272.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro273.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro274.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro275.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro276.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro277.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro278.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro279.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro281.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro282.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro283.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro284.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro285.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro286.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro287.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro288.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro289.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro290.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro294.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro295.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro296.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro297.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro298.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro299.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro301.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro302.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro303.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro304.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro305.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro306.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro307.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro308.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro309.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro310.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro311.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro312.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro313.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro314.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro315.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro316.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro317.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro318.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro319.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro320.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro321.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro322.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro323.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro324.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro325.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro326.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro327.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro328.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro329.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro330.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro331.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro332.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro333.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro334.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro335.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro336.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro337.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro338.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro339.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro340.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro341.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro342.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro343.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro344.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro345.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro346.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro347.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro348.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro349.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro350.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro351.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro352.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro353.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro354.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro355.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro356.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro357.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro358.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro359.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro360.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro361.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro362.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro363.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spro364.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

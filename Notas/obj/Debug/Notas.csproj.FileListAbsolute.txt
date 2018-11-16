@@ -1,0 +1,37 @@
+C:\Users\Familia Torres\Desktop\SILA\Notas\bin\Debug\Notas.exe.manifest
+C:\Users\Familia Torres\Desktop\SILA\Notas\bin\Debug\Notas.application
+C:\Users\Familia Torres\Desktop\SILA\Notas\bin\Debug\Notas.exe
+C:\Users\Familia Torres\Desktop\SILA\Notas\bin\Debug\Notas.pdb
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.Form1.resources
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.Form2.resources
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.exe.manifest
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.application
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.exe
+C:\Users\Familia Torres\Desktop\SILA\Notas\obj\Debug\Notas.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.Main.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.exe.manifest
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.application
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.exe.manifest
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.application
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.Main.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Notas.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.exe.manifest
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.application
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\bin\Debug\Editor de texto.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.exe.manifest
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Notas\obj\Debug\Editor de texto.application

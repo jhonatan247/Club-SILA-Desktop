@@ -1,0 +1,76 @@
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe.config
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.pdb
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Interop.WMPLib.dll
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\AxInterop.WMPLib.dll
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csprojResolveAssemblyReference.cache
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Interop.WMPLib.dll
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\AxInterop.WMPLib.dll
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.ResolveComReference.cache
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Acercade.resources
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Properties.Resources.resources
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Reproductor.resources
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.GenerateResource.Cache
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.exe
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.pdb
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe.manifest
+C:\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.application
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.exe.manifest
+C:\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.application
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe.config
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.ResolveComReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.exe
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.pdb
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe.manifest
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.application
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.exe
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Reproductor_SILA.pdb
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Acercade.resources
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Reproductor.resources
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.exe.manifest
+C:\Users\Familia Torres\Desktop\SILA\Reproductor_SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.application
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.ResolveComReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Acercade.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Reproductor.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe.manifest
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.application
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.exe.manifest
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.application
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe.manifest
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.application
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\SS24 MP4.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\Interop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\bin\Debug\AxInterop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Interop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\AxInterop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.ResolveComReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Acercade.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.Reproductor.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\Reproductor_SILA.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.exe.manifest
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.application
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Reproductor_SILA\obj\Debug\SS24 MP4.pdb

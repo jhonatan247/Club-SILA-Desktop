@@ -1,0 +1,12 @@
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.dll.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.dll.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Datos\obj\Debug\Datos.pdb

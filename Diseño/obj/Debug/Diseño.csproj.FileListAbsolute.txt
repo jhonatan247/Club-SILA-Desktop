@@ -1,0 +1,114 @@
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Negocio.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Datos.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Negocio.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Datos.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Ingreso.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Properties\Settings.Designer.cs
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Properties\Settings.settings
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.AcercaDe.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.PantallaCompleta.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.VisorImagenes.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.EntidadCompleta.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.GraficaCompleta.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.ConfirmarContraseña.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.TablaCompletaSeleccionar.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Aprendizaje.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.CoreanoAPR.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Historia.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csproj.ResolveComReference.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Icono.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Presentacion.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicioc.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio_Programador.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.GestionarEntidades.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\RdlCompile.cache
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\RdlCompile.compiled
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.ReporteCompleto.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Reloj.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio1.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.AccionReciclaje.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Gestión_de_datos.FRM_OBJETO.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.exe.config
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Club Sila.exe
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Club Sila.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Licencia.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio2.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Pruebas.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\CustomControls.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\CustomControls.pdb
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\bin\Debug\es-CO\Club Sila.resources.dll
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio2.es-CO.resources
+C:\Users\Familia Torres\Desktop\Proyecto SILA\Club SILA\Diseño\obj\Debug\es-CO\Club Sila.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.exe.config
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Interop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\AxInterop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csproj.ResolveComReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Club Sila.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Club Sila.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.AccionReciclaje.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Pruebas.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Reloj.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.ReporteCompleto.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.GestionarEntidades.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.EntidadCompleta.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.ConfirmarContraseña.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Icono.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.Presentacion.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.TablaCompletaSeleccionar.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.GraficaCompleta.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.VisorImagenes.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.PantallaCompleta.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Gestión_de_datos.FRM_OBJETO.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.AcercaDe.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Aprendizaje.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.CoreanoAPR.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio2.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Licencia.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio1.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio_Programador.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Historia.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Ingreso.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicioc.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Interfaz_de_usuario.Inicio2.es-CO.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\RdlCompile.cache
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\RdlCompile.compiled
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Properties\Settings.Designer.cs
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Properties\Settings.settings
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.exe
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Club Sila.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\es-CO\Club Sila.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\CustomControls.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Negocio.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Datos.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Negocio.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\CustomControls.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Datos.pdb
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Interop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\AxInterop.WMPLib.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\es-CO\Club Sila.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\obj\Debug\Diseño.Funciones.EnviarCodigo.resources
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ProyectosVisual\C#\Proyecto SILA\Club SILA\Diseño\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

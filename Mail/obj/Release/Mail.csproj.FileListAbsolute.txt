@@ -1,0 +1,14 @@
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Login.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Login2.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Main.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Main2.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Properties.Resources.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.Selccionar.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.To.resources
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.csproj.GenerateResource.Cache
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Release\Mail.exe.config
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Release\Mail.exe
+C:\Users\Familia Torres\Desktop\SILA\Mail\bin\Release\Mail.pdb
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.csprojResolveAssemblyReference.cache
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.exe
+C:\Users\Familia Torres\Desktop\SILA\Mail\obj\Release\Mail.pdb
